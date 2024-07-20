@@ -1,5 +1,7 @@
 # Hi, I'm Usman Mazhar 👋
 
+## About Me 👋
+
 Welcome to my profile! I am an experienced iOS Developer with 2 years of hands-on experience in crafting dynamic and user-centric applications. My expertise encompasses a range of technologies including Swift, Objective-C, ARKit, UIKit, Combine, and SwiftUI. I am proficient in leveraging MVVM and Clean Architecture to build robust and scalable applications.
 
 With a keen focus on innovation and user experience, I am dedicated to staying at the cutting edge of iOS development. My commitment lies in contributing effectively to projects that push the boundaries of what’s possible in mobile technology, ensuring the delivery of exceptional and engaging applications.
