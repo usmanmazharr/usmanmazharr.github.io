@@ -1,12 +1,14 @@
 # Hi, I'm Usman Mazhar 👋
 
-Welcome to my GitHub page! I'm an iOS developer with 2 years of experience. I specialize in creating dynamic and user-friendly applications using Swift and Objective-C. My expertise spans across various domains, including software engineering, project management, and business analytics. I'm passionate about leveraging technology to solve real-world problems and enhance user experiences.
+Welcome to my profile! I am an experienced iOS Developer with 2 years of hands-on experience in crafting dynamic and user-centric applications. My expertise encompasses a range of technologies including Swift, Objective-C, ARKit, UIKit, Combine, and SwiftUI. I am proficient in leveraging MVVM and Clean Architecture to build robust and scalable applications.
+
+With a keen focus on innovation and user experience, I am dedicated to staying at the cutting edge of iOS development. My commitment lies in contributing effectively to projects that push the boundaries of what’s possible in mobile technology, ensuring the delivery of exceptional and engaging applications.
 
 ## Skills & Technologies
 
-- **Languages**: Swift, Objective-C, Python
-- **Frameworks**: UIKit, SwiftUI, Combine, CoreData
-- **Tools**: Xcode, Git, CocoaPods, Fastlane
+- **Languages**: Swift, Objective-C, Python, C++
+- **Frameworks**: UIKit, SwiftUI, Combine, CoreData, ARkit
+- **Tools**: Xcode, Git, CocoaPods, Xcode Cloud, Jira
 - **Methodologies**: Agile, SCRUM, Test-Driven Development (TDD)
 - **Others**: RESTful APIs, JSON, Firebase, Realm
 
