@@ -1,4 +1,3 @@
-# Hi, I'm Usman Mazhar 👋
 
 ## About Me 👋
 
