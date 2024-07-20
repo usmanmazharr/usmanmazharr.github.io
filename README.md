@@ -29,15 +29,15 @@ Driven by a passion for innovation and a commitment to user experience, I contin
 
 ### Urban Point
 - **Description**: A popular e-commerce app that offers valuable discounts and promotions from local businesses in Qatar. Users can explore deals, track savings, and redeem vouchers across categories such as food, beauty, and retail.
-- **Technologies**: UIKit(Storyboard), RESTful APIs, ApplePay, UberRides, GooglePlay
+- **Technologies**: UIKit, Restful APIs, ApplePay, UberRides, GooglePlay
 - **App Store Link**: [Urban Point on App Store](https://apps.apple.com/us/app/urban-point/idXXXXXXXXX)
 
 ## Experience
 
-### Associate Engineer at VEROKE
+### Associate iOS Engineer at VEROKE
 **July 2024 - Present**
 
-- Integrating various payment SDKs, including Stripe, UberRides, Google Maps, and Google Places, to enhance app functionality.
+- Integrating various SDKs, including Stripe, UberRides, Google Maps, and Google Places, to enhance app functionality.
 - Refactoring legacy codebases using modern techniques and technologies to improve performance, maintainability, and scalability.
 - Contributing to the development and enhancement of UrbanPoint, a leading e-commerce app in Qatar.
 
@@ -62,7 +62,6 @@ Driven by a passion for innovation and a commitment to user experience, I contin
 ### Bachelor’s Degree in Computer Science
 **Bahria University Islamabad**
 - Major in Mobile and Web Engineering
-- GPA: 3.1/4
 
 ## Contact Me
 
