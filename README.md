@@ -1,6 +1,8 @@
-# About Me.
+# Welcome to My Profile
 
-Welcome to my profile! I am a dedicated iOS Developer with 2 years of hands-on experience in crafting dynamic and user-centric applications. My expertise spans a diverse array of technologies including Swift, Objective-C, ARKit, UIKit, Combine, and SwiftUI. I specialize in employing MVVM and Clean Architecture to develop robust and scalable applications.
+## About Me
+
+I am a dedicated iOS Developer with 2 years of hands-on experience in crafting dynamic and user-centric applications. My expertise spans a diverse array of technologies including Swift, Objective-C, ARKit, UIKit, Combine, and SwiftUI. I specialize in employing MVVM and Clean Architecture to develop robust and scalable applications.
 
 Driven by a passion for innovation and a commitment to user experience, I continuously strive to stay at the cutting edge of iOS development. My goal is to contribute to projects that push the boundaries of mobile technology, delivering exceptional and engaging applications.
 
