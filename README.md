@@ -12,25 +12,25 @@ Welcome to my GitHub page! I'm an iOS developer with 2 years of experience. I sp
 
 ## Projects
 
-### Project 1: [Project Name]
+### Project 1: UBL Digital
 - **Description**: A brief description of the project and its purpose.
 - **Technologies**: Swift, UIKit, RESTful APIs
 - **Repository**: [GitHub Link]
 
-### Project 2: [Project Name]
+### Project 2: Fusion Inspect
 - **Description**: A brief description of the project and its purpose.
 - **Technologies**: Swift, CoreData, Firebase
 - **Repository**: [GitHub Link]
 
-### Project 3: [Project Name]
+### Project 3: Urban Point
 - **Description**: A brief description of the project and its purpose.
 - **Technologies**: Objective-C, UIKit, JSON
 - **Repository**: [GitHub Link]
 
 ## Experience
 
-### iOS Developer at [Company Name]
-**[Month, Year] - Present**
+### iOS Developer at O3 Interfaces
+**Jan 2023 - July 2024**
 
 - Developed and maintained multiple iOS applications, ensuring high performance and user experience.
 - Collaborated with cross-functional teams to define, design, and ship new features.
