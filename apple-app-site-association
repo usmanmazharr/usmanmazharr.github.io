@@ -1,11 +1,13 @@
 {
- "applinks": {
-   "apps": [],
-   "details": [
-     {
-       "appID": "Q9K9X5786W.com.thriftplan",
-       "paths": [ "*" ]
-     }
-   ]
- }
+  "applinks": {
+      "apps": [],
+      "details": [
+          {
+              "appID": "5XWD44PZ72.com.app.iwish",
+              "paths": [
+                  "*"
+              ]
+          }
+      ]
+  }
 }
